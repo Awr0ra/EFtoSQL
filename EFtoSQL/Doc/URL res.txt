@@ -1,0 +1,35 @@
+
+***
+dotnet ef dbcontext scaffold "Data Source=192.168.168.110;Initial Catalog=Blogging;User ID=awr_qazwsx;Password=qazwsx;Connection Timeout=30;" Microsoft.EntityFrameworkCore.SqlServer -o Models\Blog -c BlogEntities
+
+****
+
+Medhat Elmasry ++++
+https://www.youtube.com/channel/UC0f_1AIV2tqXH69Rt8ueQfQ/videos
+How to enable in-place editing with validation control in a GridView in ASP.NET
++ Annotation
+http://www.dotnetawesome.com/2014/03/how-to-enable-in-place-editing-with-validation-in-aspnet.html
+https://www.youtube.com/watch?v=3m93T29STvo
+
+
+
+
+Connecting to an existing database in ASP.NET Core 2.x app with Entity Framework 2.x
+https://www.youtube.com/watch?v=jHDhwAzskmo
+
+
+
+Part 1 - Basic Inplace editing in asp.net MVC webgrid
+https://www.youtube.com/watch?v=0Ia-SPThFFY&t=595s
+
+Part 2 - Advance Inplace editing in asp.net MVC webgrid
+https://www.youtube.com/watch?v=ZuMwxelo_mw
+
+----------------------------------------- Master Detail 
+
+ASP NET CORE
+How to create Master Detail entry form in asp.net MVC4
+https://www.youtube.com/watch?v=ir9cMbNQP4w&index=5&list=PLVwiM0_TrqChfrTWKc_dYVQnz4Xy-JD6-
+
+ASP.NET MVC Master detail
+https://www.youtube.com/watch?v=w-OHoD47VOA&list=PLyYDGDUwrQY0MeWr9ZbET5TxdnEzWgsyE 
